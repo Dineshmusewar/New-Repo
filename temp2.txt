@@ -1,6 +1,2 @@
 hello,
-
-good morning - local
-
-
-some line added
+from master
